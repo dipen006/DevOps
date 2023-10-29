@@ -1,0 +1,35 @@
+what is shell ?
+
+shell in linux is command line interface that will take all commands as input. Git is also a command line tool.
+
+when we type git an executable runs in the background in shell
+
+what is root?
+
+root is your computer's user name which have access to all the files and the part or name after the @ is your computer's hostname.
+
+exit is used to exil from a file or a folder
+
+ls command 
+list all the contents in the folder
+
+
+instagram	Done with email
+twitter		Done |	email pending
+github		Done
+linkedin	Done with email
+snapchat
+slack
+telegram	done
+whatsapp	Done
+discord		Done with email
+spotify		created new account
+google		Done with email
+Adhaar		email pending
+Pan Card	done
+Driving
+Voters
+hashnode
+
+
+
