@@ -1,18 +1,16 @@
 #!/bin/bash
 
-# Backup Directory
+# source Directory
 
-Backup_dir="/home/sh/Desktop/Devops"
+src_dir=/home/sh/Desktop/DevOps
+tgt_dir=/home/sh/Desktop/Backups
 
-# where to backup
+curr_timestamp=$(date "+%Y-%m-%d-%H-%M-%S")
+backup_file=$tgt_dir/$curr_timestamp.tgz
 
-Backup="/home/sh/Desktop/Backup"
+echo "Taking backup on $curr_timestamp"
 
-# date of the backup
+tar czf $backup_file --absolute-names  $src_dir
 
-date=$(date + "%d-%b-%y")
-cp -r $Backup_dir $Backup/$date
-
-echo "Backup created in $Backup/$date"
-
+echo "Backup Complete"
 
