@@ -1,2 +1,2 @@
 "This is the first feature"
-This is new commit feature 2.2"
+This is new commit feature 2.2 completed"
