@@ -6,3 +6,4 @@ This is new commit feature 2.2"
 >>>>>>> fad8512 (Added feature 2.2 in dev branch)
 
 this is advancement of the previous feature
+"Added few more changes to make it more optimized"
