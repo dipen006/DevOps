@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 "This is the first feature"
 "This is another feature"
+=======
+"This is a change in this file"
+>>>>>>> Stashed changes
