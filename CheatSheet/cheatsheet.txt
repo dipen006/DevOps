@@ -1,0 +1,89 @@
+pwd: Shows the current directory path.
+
+ls: Lists files and directories.
+
+ls -a: Lists all files and directories, including hidden ones.
+
+mkdir: Creates a new directory.
+
+rmdir: Removes an empty directory.
+
+vim: Opens a text editor and allows you to create or view a file.
+
+cat: Displays the content of a file.
+
+head -3 file_name: Shows the top three lines of a file.
+
+tail -3 file_name: Shows the last three lines of a file.
+
+diff f1 f2: Compares two files to find differences.
+
+chmod: Changes file permissions.
+
+chown: Changes the owner of a file.
+
+chgrp: Changes the group that owns a file.
+
+history: Shows the command history.
+
+Cron: Used for scheduling tasks like backups and maintenance.
+
+CronTab: Allows you to schedule and manage tasks.
+
+ls -ltr: Lists files with details, sorted by time.
+
+File Permissions:
+
+Read (r): Allows reading or viewing a file, or listing directory contents.
+
+Write (w): Permits editing files or adding/removing files in directories.
+
+Execute (x): Allows running executable files or accessing directories.
+
+ACLs (Access Control Lists): Provide additional access control options.
+
+getfacl: Shows ACL information.
+
+setfacl: Modifies ACLs.
+
+System Control Commands:
+
+systemctl: Manages system services and units.
+
+service: Used for controlling system services in older Linux distributions.
+
+Git and GitHub Commands:
+
+sudo apt install git: Installs Git on Ubuntu.
+
+git init: Creates a new Git repository.
+
+git --version: Checks Git version.
+
+git clone <repository-url>: Downloads a remote repository to your computer.
+
+git status: Checks the current repository status.
+
+git add <file_name>: Stages a file for the next commit.
+
+git commit -m <Commit Message>: Makes a commit with a message.
+
+git push -u origin main: Pushes local commits to a remote repository.
+
+git revert <commit-id>: Reverts changes made in previous commits.
+
+git rebase <branch name>: Modifies previous commits.
+
+git merge: Combines branches while preserving commit history.
+
+git stash: Saves changes without committing.
+
+git log --oneline: Shows a condensed commit history.
+
+git checkout <branch_name>: Switches between branches.
+
+git cherry-pick <commit_id>: Applies changes from a specific commit.
+
+git push origin --delete <branch>: Deletes a remote branch on GitHub.
+
+I hope this simplified cheat sheet helps you better understand these commands!
