@@ -1,0 +1,88 @@
+Git is a version control system
+
+suppose i made a file hello and suppose i edit that file to hello dosto then i had override the file then the hello became hello dosto
+
+now the version1 have changes to version2 now that changes have been tracked
+wth the help of git 
+
+git is a tool which help you to version control specific files with its version control system
+
+Instagram for eg: you edit a picture to upload and edit it in instagram by using filters, GIF's and other stickers or emojis then you can share the picture
+
+
+Git - Global information tracker
+
+eg: Google Doc history tab on the right can also be taken as an example of version control
+
+Now
+Instagram does not allow you to version control but google docs does
+
+Many popular companies use git to version control their system
+
+Companies use mainly 2 types of version control system
+
+VSC can be divided into 2 types
+
+CVCS - Central version control system
+DVCS - Distributed Version control system
+
+
+usually companies prefer distriuted version control system
+means over the internet you can do the version control from anywhere in the world
+
+centeralized version control system is used by Git
+
+
+
+
+Terms in Git
+
+Repository - Repo can also be visualized as a container in which all the files and folders are kept for version control system.
+It can be images, files, videos, audio, text files, anything you want to
+
+Git init - when you use git init in any folder it will be converted into a repository and then you can easily do the version control
+
+Local Repository - if the repository is on you local system then it is called a local repo
+
+Remote Repo - if the repo is on some server or it is online somewhere then it is called as a remote repo
+
+Distributed means on a large scale
+
+File System Vs Git
+
+File System 
+
+1. if i want to create a file in file system
+i will use vim, touch, gedit etc commands along with the file name
+eg: touch demo.txt
+you will have owner, time, permission etc
+
+suppose i remove demo.txt and even delete from recycle bin then i can't get it back
+
+
+Repository
+
+to make a file use "touch demo.txt"
+
+and i use git init
+now this demo.txt is not version controlled
+
+now you can also see the author name, time, edit version of that file
+
+this is called as commit hash
+
+now if i delete the files from anywhere on the system then i can restore from anywhere
+
+using the version control system
+
+
+ 
+
+
+
+
+
+
+
+
+ 
