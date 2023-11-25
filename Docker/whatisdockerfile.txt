@@ -1,0 +1,16 @@
+#Get the base image
+From openjdk:11  --file:version
+
+# create a working directory to keep all the files
+WORKDIR /app
+
+# Code copy to the image for running in the container
+COPY hello.java /app
+
+# compile the code
+RUN javac Hello,java
+
+# App is now ready to run
+
+# passing the run commands as arguments
+CMD ["java", "Hello"]
